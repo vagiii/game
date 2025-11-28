@@ -1,0 +1,1014 @@
+{
+    "version": 3,
+    "created": 1764322617894,
+    "updated": 1764335879251,
+    "scenes": [
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "background",
+                    "content": "WuSyjDGOra3dFaYUkHHBb",
+                    "size": "contain",
+                    "zoom": "2",
+                    "layout": "bottom"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Reality demands attention, a place on the stage. Cognitive awareness protests against the sudden flood of activity, and motor functions seem to be out of order.\nAnxiety and irrational fear are the only remnants of dreams you cannot, or perhaps do not want to recall.",
+                    "style": "zKNEaQASDQKBoEYxy1PlZ",
+                    "audio": "FFTbktZt89lnl3bcRPzcL"
+                },
+                {
+                    "id": 4,
+                    "type": "text",
+                    "state": "default",
+                    "content": "From nothing, your consciousness was born, for the fragments it possesses are merely confusing nonsense, devoid of context. It immediately summons all available resources, and some functions begin to slowly return. A few cognitive and perceptive abilities are at your disposal, but motor control remains beyond your reach.",
+                    "audio": "WAnjJlL-A4_pJ8lehpEh_"
+                },
+                {
+                    "id": 6,
+                    "type": "text",
+                    "state": "default",
+                    "content": "As certain synaptic pathways reconnect, sensory data flood your mind. You are lying on something soft, and it is warm. Next to you, someone is breathing deeply and steadily. A foul, sour stench invades your nostrils.",
+                    "audio": "5Y404DCMWV6qAqUCLqnoB"
+                },
+                {
+                    "id": 7,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Realizing that its source is you sends a wave of nausea through your body, and you taste bitterness and acid in your mouth. Any attempt to swallow fails, for your mouth is as dry as Death Valley.",
+                    "audio": "zbWWIwmCagrkS7EMQ5cH1"
+                },
+                {
+                    "id": 5,
+                    "type": "redirect",
+                    "scene": "djqE9x90AwuyEKEs3HxC_"
+                }
+            ],
+            "id": "qNsaTFZukbC___iucQw7U",
+            "title": "Act I",
+            "start": true,
+            "microcosm": false,
+            "act": true,
+            "color": null,
+            "updated": "2025-11-28T12:53:40.305Z",
+            "wc": 178,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "background",
+                        "content": "WuSyjDGOra3dFaYUkHHBb",
+                        "size": "contain",
+                        "zoom": "2",
+                        "layout": "bottom"
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "default",
+                        "content": "Reality demands attention, a place on the stage. Cognitive awareness protests against the sudden flood of activity, and motor functions seem to be out of order.\nAnxiety and irrational fear are the only remnants of dreams you cannot, or perhaps do not want to recall.",
+                        "style": "zKNEaQASDQKBoEYxy1PlZ",
+                        "audio": "FFTbktZt89lnl3bcRPzcL"
+                    },
+                    {
+                        "id": 4,
+                        "type": "text",
+                        "state": "default",
+                        "content": "From nothing, your consciousness was born, for the fragments it possesses are merely confusing nonsense, devoid of context. It immediately summons all available resources, and some functions begin to slowly return. A few cognitive and perceptive abilities are at your disposal, but motor control remains beyond your reach.",
+                        "audio": "WAnjJlL-A4_pJ8lehpEh_"
+                    },
+                    {
+                        "id": 6,
+                        "type": "text",
+                        "state": "default"
+                    },
+                    {
+                        "id": 5,
+                        "type": "redirect",
+                        "scene": "djqE9x90AwuyEKEs3HxC_"
+                    }
+                ],
+                "id": "qNsaTFZukbC___iucQw7U",
+                "title": "Act I",
+                "start": true,
+                "microcosm": false,
+                "act": true,
+                "color": null,
+                "updated": "2025-11-28T12:53:16.336Z",
+                "wc": 105,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 3,
+                    "type": "choice",
+                    "scene": "uobl2pxc-LAR8xgOYAM8T",
+                    "label": "Let the darkness take over again",
+                    "microcosm": false
+                },
+                {
+                    "id": 4,
+                    "type": "choice",
+                    "scene": "q-WuSJUES2brxbka7jlCg",
+                    "label": "Try to move"
+                }
+            ],
+            "id": "djqE9x90AwuyEKEs3HxC_",
+            "title": "1",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T12:53:04.956Z",
+            "wc": 20,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "state": "default",
+                        "content": "As certain synaptic pathways reconnect, sensory data flood your mind. You are lying on something soft, and it is warm. Next to you, someone is breathing deeply and steadily. A foul, sour stench invades your nostrils.",
+                        "audio": "HIYCcCD8yHE3earUXmnKa"
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "default",
+                        "content": "Realizing that its source is you sends a wave of nausea through your body, and you taste bitterness and acid in your mouth. Any attempt to swallow fails, for your mouth is as dry as Death Valley.",
+                        "audio": "PkO2rjOwk5kpR_GWeRprR"
+                    },
+                    {
+                        "id": 3,
+                        "type": "choice",
+                        "scene": "uobl2pxc-LAR8xgOYAM8T",
+                        "label": "Let the darkness take over again",
+                        "microcosm": false
+                    },
+                    {
+                        "id": 4,
+                        "type": "choice",
+                        "scene": "q-WuSJUES2brxbka7jlCg",
+                        "label": "Try to move"
+                    }
+                ],
+                "id": "djqE9x90AwuyEKEs3HxC_",
+                "title": "1",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T12:49:18.874Z",
+                "wc": 93,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "You feel like it should be possible, but you're going to be smart about this. In order to restore your vision You're going to have to clear what's preventing your eyes from opening and that's just first of great things about to be accomplished with your newly obtained consciousness.",
+                    "audio": "KQ5vK1G95xWo2lHyzl_Ov"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default"
+                }
+            ],
+            "id": "4PxtZqRIXB3AL-JwPdbAZ",
+            "title": "2",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T12:29:28.451Z",
+            "wc": 60,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "You feel like it should be possible, but you're going to be smart about this. In order to restore your vision You're going to have to clear what's preventing your eyes from opening and that's just first of great things about to be accomplished with your newly obtained consciousness."
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "default"
+                    }
+                ],
+                "id": "4PxtZqRIXB3AL-JwPdbAZ",
+                "title": "2",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T12:27:57.827Z",
+                "wc": 60,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "Despite your best efforts to forfeit every bit of will to live there is your body is slowly gaining it's former capabilities. Some less desirable than others.",
+                    "audio": "mpefrlxsgI4Gf6mWt5fxG",
+                    "auto_advance": false
+                },
+                {
+                    "id": 4,
+                    "type": "redirect",
+                    "scene": "djqE9x90AwuyEKEs3HxC_"
+                }
+            ],
+            "id": "uobl2pxc-LAR8xgOYAM8T",
+            "title": "3",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T12:46:24.517Z",
+            "wc": 38,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Despite your best efforts to forfeit every bit of will to live there is your body is slowly gaining it's former capabilities. Some less desirable than others.",
+                        "audio": "mpefrlxsgI4Gf6mWt5fxG",
+                        "auto_advance": false
+                    },
+                    {
+                        "id": 4,
+                        "type": "redirect",
+                        "scene": "djqE9x90AwuyEKEs3HxC_"
+                    }
+                ],
+                "id": "uobl2pxc-LAR8xgOYAM8T",
+                "title": "3",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T12:46:21.166Z",
+                "wc": 38,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "You feel like it should be possible, but you're going to be smart about this. In order to restore your vision You're going to have to clear what's preventing your eyes from opening and that's just first of great things about to be accomplished with your newly obtained consciousness.",
+                    "audio": "VZPtzTe2HV3gRmTDzhI5B"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Yet, the expected information that usually accompany such endeavor still hasn't made appearance.\nOr atleast not in some comprehensive form. Bits of information from your adult life are lacking context rendering them confusing.",
+                    "audio": "25W72UQEljA76AAZtALJS"
+                },
+                {
+                    "id": 3,
+                    "type": "redirect",
+                    "scene": "HYMhomXuh89dq-J5Mlfg9"
+                }
+            ],
+            "id": "q-WuSJUES2brxbka7jlCg",
+            "title": "4",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T12:54:49.296Z",
+            "wc": 92,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "You feel like it should be possible, but you're going to be smart about this. In order to restore your vision You're going to have to clear what's preventing your eyes from opening and that's just first of great things about to be accomplished with your newly obtained consciousness.",
+                        "audio": "VZPtzTe2HV3gRmTDzhI5B"
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "default",
+                        "content": "Yet, the expected information that usually accompany such endeavor still hasn't made appearance.\nOr atleast not in some comprehensive form. Bits of information from your adult life are lacking context rendering them confusing.",
+                        "audio": "25W72UQEljA76AAZtALJS"
+                    },
+                    {
+                        "id": 3,
+                        "type": "redirect"
+                    }
+                ],
+                "id": "q-WuSJUES2brxbka7jlCg",
+                "title": "4",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T12:54:42.790Z",
+                "wc": 92,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "You summon all available concentration and point it at the blurry spot in your memory. Despite your best intentions, but according to your expectations it just caused you enormous vertigo with nausea closely following it's steps. It lingers there as a punishment for doing the forbidden. Like looking to a sun.",
+                    "audio": "8gora9E2eRKY6LOo1E5rR"
+                },
+                {
+                    "id": 2,
+                    "type": "choice",
+                    "scene": "IK9Os2AQCPeFlYhYsi7f5",
+                    "label": "Put your motoric functions to use instead"
+                }
+            ],
+            "id": "5EwGqQplSQAFpLtewnXa7",
+            "title": "5",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T13:01:35.956Z",
+            "wc": 69,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "You summon all available concentration and point it at the blurry spot in your memory. Despite your best intentions, but according to your expectations it just caused you enormous vertigo with nausea closely following it's steps. It lingers there as a punishment for doing the forbidden. Like looking to a sun.",
+                        "audio": "8gora9E2eRKY6LOo1E5rR"
+                    },
+                    {
+                        "id": 2,
+                        "type": "choice",
+                        "scene": "",
+                        "label": "Put your motoric functions to use instead"
+                    }
+                ],
+                "id": "5EwGqQplSQAFpLtewnXa7",
+                "title": "5",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T13:01:30.655Z",
+                "wc": 62,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "Since you had such success last time and made it possible for your eyes to eventually open, you could try something more this time. Like rolling on your back, giving your eyes opportunity to survey the area, hopefully bringing more information or recollections into the mess that you call memory. However the complex movement stirs something up inside you and suddenly you don't feel very well. Probably, it's the hunger.",
+                    "audio": "Km5IL5p21Xaz0PKiBjoKc"
+                },
+                {
+                    "id": 2,
+                    "type": "choice",
+                    "scene": "T8a3G4tqdQxkc2FYOhSm0",
+                    "label": "Go to the Kitchen"
+                }
+            ],
+            "id": "IK9Os2AQCPeFlYhYsi7f5",
+            "title": "6",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T12:41:45.880Z",
+            "wc": 85,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Since you had such success last time and made it possible for your eyes to eventually open, you could try something more this time. Like rolling on your back, giving your eyes opportunity to survey the area, hopefully bringing more information or recollections into the mess that you call memory. However the complex movement stirs something up inside you and suddenly you don't feel very well. Probably, it's the hunger.",
+                        "audio": "Km5IL5p21Xaz0PKiBjoKc"
+                    },
+                    {
+                        "id": 2,
+                        "type": "choice",
+                        "scene": "",
+                        "label": "Go to the Kitchen"
+                    }
+                ],
+                "id": "IK9Os2AQCPeFlYhYsi7f5",
+                "title": "6",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T12:41:37.538Z",
+                "wc": 85,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "The light in here is clinical. A flat, judgmental white that comes from a panel in the ceiling, making the white linoleum floor whiter, the stainless-steel sink shinier, the whole room feel like a morgue for breakfast foods.",
+                    "audio": "asFFbUsFdemlD6ZOmEkaj"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Your head is a leaden weight, a stone tied to your spine. A low, persistent thrumming beats behind your eyes, the rhythm of a forgotten, awful song. You’re gripping the edge of the counter with white knuckles, the cold metal a thin anchor against another tide of whatever this is. Nausea. Vertigo. A profound and total emptiness.",
+                    "audio": "gAGJPr5qifKVDKfxcel1L"
+                },
+                {
+                    "id": 3,
+                    "type": "text",
+                    "state": "default",
+                    "content": "The kitchen is clean. Unnaturally so. There’s a half-eaten kebab in its wrapper on the counter, but other than that, nothing. ",
+                    "audio": "i6u5hr8hRxHsjq5RkEiPU"
+                },
+                {
+                    "id": 4,
+                    "type": "choice",
+                    "scene": "5keXQDuhJ-8Ny-_gnr1hX",
+                    "label": "Eat the kebab",
+                    "effects": [
+                        {
+                            "tag": "ZPHoXm2mZB",
+                            "op": ":",
+                            "value": "1",
+                            "id": "btoufxkww"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "choice",
+                    "scene": "k-pGfePo5RdJfyQRzlUjK",
+                    "label": "Look in the fridge"
+                }
+            ],
+            "id": "T8a3G4tqdQxkc2FYOhSm0",
+            "title": "kitchen",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T13:14:01.295Z",
+            "wc": 136,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "The light in here is clinical. A flat, judgmental white that comes from a panel in the ceiling, making the white linoleum floor whiter, the stainless-steel sink shinier, the whole room feel like a morgue for breakfast foods.",
+                        "audio": "asFFbUsFdemlD6ZOmEkaj"
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "default",
+                        "content": "Your head is a leaden weight, a stone tied to your spine. A low, persistent thrumming beats behind your eyes, the rhythm of a forgotten, awful song. You’re gripping the edge of the counter with white knuckles, the cold metal a thin anchor against another tide of whatever this is. Nausea. Vertigo. A profound and total emptiness.",
+                        "audio": "gAGJPr5qifKVDKfxcel1L"
+                    },
+                    {
+                        "id": 3,
+                        "type": "text",
+                        "state": "default",
+                        "content": "The kitchen is clean. Unnaturally so. There’s a half-eaten kebab in its wrapper on the counter, but other than that, nothing. ",
+                        "audio": "i6u5hr8hRxHsjq5RkEiPU"
+                    },
+                    {
+                        "id": 4,
+                        "type": "choice",
+                        "scene": "5keXQDuhJ-8Ny-_gnr1hX",
+                        "label": "Eat the kebab"
+                    }
+                ],
+                "id": "T8a3G4tqdQxkc2FYOhSm0",
+                "title": "kitchen",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T12:58:37.236Z",
+                "wc": 132,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "choice",
+                    "scene": "5EwGqQplSQAFpLtewnXa7",
+                    "label": "Try to remember."
+                },
+                {
+                    "id": 2,
+                    "type": "choice",
+                    "scene": "IK9Os2AQCPeFlYhYsi7f5",
+                    "label": "Put your motoric functions to use instead"
+                }
+            ],
+            "id": "HYMhomXuh89dq-J5Mlfg9",
+            "title": "a",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T12:56:28.125Z",
+            "wc": 21,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "choice",
+                        "scene": "5EwGqQplSQAFpLtewnXa7",
+                        "label": "Try to remember."
+                    }
+                ],
+                "id": "HYMhomXuh89dq-J5Mlfg9",
+                "title": "a",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T12:56:02.212Z",
+                "wc": 14,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "You pick up the kebab. The meat is cold and greasy, the paper limp with congealed fat. The smell is both familiar and deeply alien. A part of you, some vestigial animal hindbrain, urges you to consume it. To refuel.",
+                    "audio": "R9Vqs7T0uOx-Y-Fc_BG6S"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default",
+                    "content": "You take a bite.\nIt tastes like regret. The meat is tough, gristly. The sauce is cloyingly sweet, the onions sharp and acrid. You chew mechanically, swallow, and immediately regret it. Your stomach lurches in protest.  You’re not sure when you last ate, but this could've been it. Surely, it's not that long ago. Right?"
+                },
+                {
+                    "id": 3,
+                    "type": "choice",
+                    "scene": "k-pGfePo5RdJfyQRzlUjK",
+                    "label": "Look in the fridge",
+                    "effects": []
+                }
+            ],
+            "id": "5keXQDuhJ-8Ny-_gnr1hX",
+            "title": "kebab",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T13:14:33.042Z",
+            "wc": 109,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "You pull the chrome handle. It gives a satisfying *thunk* as the seal breaks. Cold, dead air billows out, revealing contents of a fridge stocked for a family.  Yogurts, fruit, a carton of milk. Tupperware containers filled with things you can't identify. A six-pack of cheap domestic beer.",
+                    "audio": "oUOplAgM63CUbsx2ClWJC"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Nothing is yours. None of this is for you. You feel like a burglar in your own home, casing the joint for loot.\nThe light inside the fridge flickers, buzzing like a trapped insect. Or a memory trying to surface. You slam it shut. The kitchen returns to its clinical silence.",
+                    "audio": "2jv068kbS3qldlzFLy0BH"
+                },
+                {
+                    "id": 3,
+                    "type": "redirect",
+                    "scene": "Q5aZ9SVxH6AET9GJ4r_OC"
+                }
+            ],
+            "id": "k-pGfePo5RdJfyQRzlUjK",
+            "title": "fridge",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T13:14:51.550Z",
+            "wc": 110,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "KbTpxf1iXSwr2-OhcpTCZ",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "You pull the chrome handle. It gives a satisfying *thunk* as the seal breaks. Cold, dead air billows out, revealing contents of a fridge stocked for a family.  Yogurts, fruit, a carton of milk. Tupperware containers filled with things you can't identify. A six-pack of cheap domestic beer.",
+                        "audio": "oUOplAgM63CUbsx2ClWJC"
+                    }
+                ],
+                "id": "k-pGfePo5RdJfyQRzlUjK",
+                "title": "fridge",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2025-11-28T13:09:25.066Z",
+                "wc": 60,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "KbTpxf1iXSwr2-OhcpTCZ",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "You’re staring at the kebab, half-eaten in your fist. The grease soaks into the wrapper, leaving dark, ugly blotches. It’s a monument to poor decisions, past and present.",
+                    "effects": [
+                        {
+                            "tag": "ZPHoXm2mZB",
+                            "op": "=",
+                            "value": "1",
+                            "id": "C3T8E_Gj_"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Your reflection is a smudge in the chrome of the toaster. A ghost. A stranger with your face. A stranger who, apparently, eats cold kebabs for breakfast."
+                },
+                {
+                    "id": 3,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Your stomach is churning, a violent protest against the meal. Your head is a blacksmith’s anvil, and someone is using your thoughts as a hammer.",
+                    "effects": [
+                        {
+                            "tag": "ZPHoXm2mZB",
+                            "op": "=",
+                            "value": "1",
+                            "id": "PnZS8blYA"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Then, a sound.\nA footstep. In the other room.\nIt’s heavy, deliberate. The floorboards groan under a weight you don't recognize. Your breath catches in your throat. The cold metal of the counter is no longer an anchor, but a cage."
+                }
+            ],
+            "id": "Q5aZ9SVxH6AET9GJ4r_OC",
+            "title": "kitchen1",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2025-11-28T13:16:11.239Z",
+            "wc": 131
+        }
+    ],
+    "tags": [
+        {
+            "name": "DbEWolCUD",
+            "id": "V14eRiDswi",
+            "type": "tag"
+        },
+        {
+            "name": "Kebab",
+            "id": "ZPHoXm2mZB",
+            "type": "tag",
+            "default": "0",
+            "referencing": "",
+            "format": "",
+            "precision": ""
+        }
+    ],
+    "title": "asdf",
+    "short_description": "",
+    "description": "",
+    "cover": null,
+    "attrs": {
+        "language": "English",
+        "genre": "Experimental"
+    },
+    "settings": {
+        "overlayout": true,
+        "thoughtStyle": null,
+        "typeSpeed": 32,
+        "background": "#000000",
+        "color": "#ffffff",
+        "colorLabels": {
+            "white": "",
+            "black": "",
+            "red": "",
+            "orange": "",
+            "yellow": "",
+            "green": "",
+            "blue": "",
+            "violet": ""
+        },
+        "titleStyle": null
+    },
+    "id": "KbTpxf1iXSwr2-OhcpTCZ",
+    "fid": null,
+    "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+    "shared": false,
+    "cloudSync": false,
+    "lastExport": null,
+    "savesSinceExport": 277,
+    "wc": 1049,
+    "lastwc": 0,
+    "types": [],
+    "blueprints": [],
+    "characters": [
+        {
+            "name": "",
+            "auraConfig": {
+                "disable": false
+            },
+            "id": "VUUvLM3YV8qYGaZ8X9ijR"
+        }
+    ],
+    "styles": [
+        {
+            "border": "3px",
+            "shadow": "#cc0000",
+            "foreground": "#ffffff",
+            "background": "#000000",
+            "gradient": "bloom",
+            "align": "left",
+            "font": "literata_bookregular",
+            "size": "19.2px",
+            "borderShadow": "",
+            "shadowLength": "1px",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "file:///C:/Users/Asdf/Downloads/cyoa-factory-win32-x64/resources/app/www/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "name": "1",
+            "id": "zKNEaQASDQKBoEYxy1PlZ",
+            "default": true,
+            "borderColor": "#8a8a8a",
+            "background2": "#2e2e2e",
+            "default_choice": false
+        },
+        {
+            "border": "",
+            "shadow": "",
+            "foreground": "black",
+            "background": "#8a8a8a",
+            "gradient": "bloom",
+            "align": "center",
+            "font": null,
+            "size": "19.2px",
+            "borderShadow": "1px",
+            "shadowLength": "",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "file:///C:/Users/Asdf/Downloads/cyoa-factory-win32-x64/resources/app/www/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "name": "2",
+            "id": "RaMyFxhpVBfADHDjOJHoQ",
+            "default_choice": true,
+            "background2": "#000000",
+            "borderShadowColor": "#ffffff"
+        }
+    ],
+    "backgrounds": [
+        {
+            "blob_id": "d-CY08vN9UCnarPVWfK1d",
+            "id": "WuSyjDGOra3dFaYUkHHBb"
+        }
+    ],
+    "animation": [
+        {
+            "id": "fade",
+            "name": "fade",
+            "duration": 200,
+            "pipeline": [
+                {
+                    "id": "1",
+                    "track": 0,
+                    "type": "opacity",
+                    "duration": 0,
+                    "opacity": 0
+                },
+                {
+                    "id": "2",
+                    "track": 0,
+                    "type": "empty",
+                    "duration": 1
+                }
+            ]
+        }
+    ],
+    "audio": [],
+    "music": [],
+    "images": [],
+    "media": [],
+    "effectProfiles": [],
+    "ordering": 1,
+    "landing": {
+        "allowRewind": true,
+        "backgroundCycle": false,
+        "backgroundCycleSpeed": 8000,
+        "backgroundFadeSpeed": 1000,
+        "backgroundZoom": 1.5,
+        "titleStyle": null,
+        "backgrounds": [],
+        "themeAccent": "#6d07cc",
+        "themeSpark": "#1e71cf",
+        "themeDark": true
+    },
+    "mediaManifest": [
+        {
+            "id": "FFTbktZt89lnl3bcRPzcL",
+            "name": "narrator-Reality_demands_attention__a_p.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/FFTbktZt89lnl3bcRPzcL"
+        },
+        {
+            "id": "WAnjJlL-A4_pJ8lehpEh_",
+            "name": "narrator-From_nothing__your_consciousne.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/WAnjJlL-A4_pJ8lehpEh_"
+        },
+        {
+            "id": "5Y404DCMWV6qAqUCLqnoB",
+            "name": "narrator-As_certain_synaptic_pathways_r.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/5Y404DCMWV6qAqUCLqnoB"
+        },
+        {
+            "id": "zbWWIwmCagrkS7EMQ5cH1",
+            "name": "narrator-Realizing_that_its_source_is_y.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/zbWWIwmCagrkS7EMQ5cH1"
+        },
+        {
+            "id": "KQ5vK1G95xWo2lHyzl_Ov",
+            "name": "narrator-You_feel_like_it_should_be_pos.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/KQ5vK1G95xWo2lHyzl_Ov"
+        },
+        {
+            "id": "mpefrlxsgI4Gf6mWt5fxG",
+            "name": "narrator-Despite_your_best_efforts_to_f.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/mpefrlxsgI4Gf6mWt5fxG"
+        },
+        {
+            "id": "VZPtzTe2HV3gRmTDzhI5B",
+            "name": "narrator-You_feel_like_it_should_be_pos.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/VZPtzTe2HV3gRmTDzhI5B"
+        },
+        {
+            "id": "25W72UQEljA76AAZtALJS",
+            "name": "narrator-Yet__the_expected_information_.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/25W72UQEljA76AAZtALJS"
+        },
+        {
+            "id": "8gora9E2eRKY6LOo1E5rR",
+            "name": "narrator-You_summon_all_available_conce.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/8gora9E2eRKY6LOo1E5rR"
+        },
+        {
+            "id": "Km5IL5p21Xaz0PKiBjoKc",
+            "name": "narrator-Since_you_had_such_success_las.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/Km5IL5p21Xaz0PKiBjoKc"
+        },
+        {
+            "id": "asFFbUsFdemlD6ZOmEkaj",
+            "name": "narrator-The_light_in_here_is_clinical..mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/asFFbUsFdemlD6ZOmEkaj"
+        },
+        {
+            "id": "gAGJPr5qifKVDKfxcel1L",
+            "name": "narrator-Your_head_is_a_leaden_weight__.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/gAGJPr5qifKVDKfxcel1L"
+        },
+        {
+            "id": "i6u5hr8hRxHsjq5RkEiPU",
+            "name": "narrator-The_kitchen_is_clean._Unnatura.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/i6u5hr8hRxHsjq5RkEiPU"
+        },
+        {
+            "id": "R9Vqs7T0uOx-Y-Fc_BG6S",
+            "name": "narrator-You_pick_up_the_kebab._The_mea.mp3",
+            "type": "audio/mpeg",
+            "from": "narration",
+            "url": "https://tsunami.darkchocolate.dev/static/public/db/481159b1-1fdb-45b4-8a5d-98fadc2bd763/media/R9Vqs7T0uOx-Y-Fc_BG6S"
+        }
+    ]
+}
