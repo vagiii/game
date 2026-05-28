@@ -1,0 +1,1971 @@
+{
+    "uid": "a24d6da0-f232-4c14-a37d-45e0d17455a6",
+    "version": 3,
+    "created": 1775737107212,
+    "updated": 1779696917095,
+    "scenes": [
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "Tak je to tady kamaráde.",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": ""
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "Zkuril si to na plný čáře.",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk"
+                },
+                {
+                    "id": 3,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "Tvoje podvědomí usoudilo, že už nejsi schopen řídit tohle tělo a tak budu velet já.",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk"
+                },
+                {
+                    "id": 4,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "Ale protože jsi tomu velel tak dlouho, necháme si tě tu jako poradce.",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk"
+                },
+                {
+                    "id": 5,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "Ale neočekávej, že budeš mít nějakou moc cokoliv ovlivnit.",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk"
+                },
+                {
+                    "id": 6,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "...",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk"
+                },
+                {
+                    "id": 7,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "No dobře, ve skutečnosti to pořád ovládáš ty, ale všechno ti budeme zprostředkovat my, takže svobodná vůle, která je značně omezená.",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk"
+                },
+                {
+                    "id": 8,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "Můžeš si svobodně vybrat mezi samými špatnými možnostmi. ",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk"
+                },
+                {
+                    "id": 9,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "Já ",
+                    "content": "Cože? To zní hrozně? A co jsem udělal?"
+                },
+                {
+                    "id": 10,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk",
+                    "content": "V zájmu zachování příčetnosti ti to neřeknu."
+                },
+                {
+                    "id": 11,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "Já ",
+                    "content": "Super. A co teď?"
+                },
+                {
+                    "id": 12,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk",
+                    "content": "Teď? Asi by jsi se měl probudit."
+                },
+                {
+                    "id": 13,
+                    "type": "redirect",
+                    "scene": "lrwvxKMy2e69QmcLCyiaO"
+                }
+            ],
+            "id": "eRBwGFj94I8VAmj5J79Ky",
+            "title": "Start ",
+            "start": true,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "wc": 115,
+            "uid": "a24d6da0-f232-4c14-a37d-45e0d17455a6",
+            "_meta": {
+                "byte_size": 4442,
+                "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "updated": "2026-04-19T04:55:15.350000+00:00",
+                "level": null,
+                "id": "eRBwGFj94I8VAmj5J79Ky"
+            },
+            "updated": "2026-04-21T14:03:28.058Z",
+            "_server": {
+                "story": "EJVb0H2QnK3vUaOZyDy4Q",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "Tak je to tady kamaráde.",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": ""
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "Zkuril si to na plný čáře.",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk"
+                    },
+                    {
+                        "id": 3,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "Tvoje podvědomí usoudilo, že už nejsi schopen řídit tohle tělo a tak budu velet já.",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk"
+                    },
+                    {
+                        "id": 4,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "Ale protože jsi tomu velel tak dlouho, necháme si tě tu jako poradce.",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk"
+                    },
+                    {
+                        "id": 5,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "Ale neočekávej, že budeš mít nějakou moc cokoliv ovlivnit.",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk"
+                    },
+                    {
+                        "id": 6,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "...",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk"
+                    },
+                    {
+                        "id": 7,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "No dobře, ve skutečnosti to pořád ovládáš ty, ale všechno ti budeme zprostředkovat my, takže svobodná vůle, která je značně omezená.",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk"
+                    },
+                    {
+                        "id": 8,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "Můžeš si svobodně vybrat mezi samými špatnými možnostmi. ",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk"
+                    },
+                    {
+                        "id": 9,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "Já ",
+                        "content": "Cože? To zní hrozně? A co jsem udělal?"
+                    },
+                    {
+                        "id": 10,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk",
+                        "content": "V zájmu zachování příčetnosti ti to neřeknu."
+                    },
+                    {
+                        "id": 11,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "Já ",
+                        "content": "Super. A co teď?"
+                    },
+                    {
+                        "id": 12,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk",
+                        "content": "Teď? Asi by jsi se měl probudit."
+                    },
+                    {
+                        "id": 13,
+                        "type": "redirect",
+                        "scene": "lrwvxKMy2e69QmcLCyiaO"
+                    }
+                ],
+                "id": "eRBwGFj94I8VAmj5J79Ky",
+                "title": "Start ",
+                "start": true,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "wc": 115,
+                "uid": "a24d6da0-f232-4c14-a37d-45e0d17455a6",
+                "_meta": {
+                    "byte_size": 4442,
+                    "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                    "updated": "2026-04-19T04:55:15.350000+00:00",
+                    "level": null,
+                    "id": "eRBwGFj94I8VAmj5J79Ky"
+                },
+                "updated": "2026-04-21T14:03:28.058Z"
+            }
+        },
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 12,
+                    "type": "background",
+                    "content": "MD-RjWPnrdjBkLSBH0h8G"
+                },
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "Haló? Vstávej. ",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "state": "NhX1ZW0SI",
+                    "emoteName": "5164"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Cítíš jak s tebou někdo lehce třese. Je to žena okolo třicítky s hnědými vlasy. Na sobě má pouze noční košili.",
+                    "layout": "bottom"
+                },
+                {
+                    "id": 7,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk",
+                    "content": "Páni, ta je pěkná "
+                },
+                {
+                    "id": 8,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "Já ",
+                    "content": "Ty jsi pořád tady?"
+                },
+                {
+                    "id": 9,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "content": "A kam bych asi tak šel?",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": ""
+                },
+                {
+                    "id": 10,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "Já ",
+                    "content": "Tak nějak jsem doufal, že to byl jen sen."
+                },
+                {
+                    "id": 3,
+                    "type": "text",
+                    "state": "YIfle-VjW",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "Neutral",
+                    "content": "Už podruhý ti přišla vlna s velkým dosahem.  Myslím, že to bude z práce."
+                },
+                {
+                    "id": 4,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk",
+                    "content": "Práce? O čem to ta ženská mluví. Ty přece nepracuješ."
+                },
+                {
+                    "id": 5,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "Já ",
+                    "content": "Jak pak platím účty? Asi bych měl chodit do práce."
+                },
+                {
+                    "id": 6,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "Blalk",
+                    "content": "Asi jsem se nevyjádřil dost jasně.\nVycházíme z předpokladu, že všechno co si do teď dělal je špatně."
+                },
+                {
+                    "id": 11,
+                    "type": "redirect",
+                    "scene": "7GWOZBQGqBcXQaEQl8Nsl"
+                }
+            ],
+            "id": "lrwvxKMy2e69QmcLCyiaO",
+            "title": "Wake ",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "wc": 110,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_meta": {
+                "byte_size": 3874,
+                "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "updated": "2026-04-20T04:27:20.462000+00:00",
+                "level": null,
+                "id": "lrwvxKMy2e69QmcLCyiaO"
+            },
+            "updated": "2026-04-21T00:12:34.185Z",
+            "_server": {
+                "story": "EJVb0H2QnK3vUaOZyDy4Q",
+                "directions": [
+                    {
+                        "id": 12,
+                        "type": "background",
+                        "content": "MD-RjWPnrdjBkLSBH0h8G"
+                    },
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Haló? Vstávej. ",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "state": "NhX1ZW0SI",
+                        "emoteName": "5164"
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "default",
+                        "content": "Cítíš jak s tebou někdo lehce třese. Je to žena okolo třicítky s hnědými vlasy. Na sobě má pouze noční košili.",
+                        "layout": "bottom"
+                    },
+                    {
+                        "id": 7,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk",
+                        "content": "Páni, ta je pěkná "
+                    },
+                    {
+                        "id": 8,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "Já ",
+                        "content": "Ty jsi pořád tady?"
+                    },
+                    {
+                        "id": 9,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "content": "A kam bych asi tak šel?",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": ""
+                    },
+                    {
+                        "id": 10,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "Já ",
+                        "content": "Tak nějak jsem doufal, že to byl jen sen."
+                    },
+                    {
+                        "id": 3,
+                        "type": "text",
+                        "state": "YIfle-VjW",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "Neutral",
+                        "content": "Už podruhý ti přišla vlna s velkým dosahem.  Myslím, že to bude z práce."
+                    },
+                    {
+                        "id": 4,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk",
+                        "content": "Práce? O čem to ta ženská mluví. Ty přece nepracuješ."
+                    },
+                    {
+                        "id": 5,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "Já ",
+                        "content": "Jak pak platím účty? Asi bych měl chodit do práce."
+                    },
+                    {
+                        "id": 6,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "Blalk",
+                        "content": "Asi jsem se nevyjádřil dost jasně.\nVycházíme z předpokladu, že všechno co si do teď dělal je špatně."
+                    },
+                    {
+                        "id": 11,
+                        "type": "redirect",
+                        "scene": "7GWOZBQGqBcXQaEQl8Nsl"
+                    }
+                ],
+                "id": "lrwvxKMy2e69QmcLCyiaO",
+                "title": "Wake ",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "wc": 110,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "_meta": {
+                    "byte_size": 3874,
+                    "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                    "updated": "2026-04-20T04:27:20.462000+00:00",
+                    "level": null,
+                    "id": "lrwvxKMy2e69QmcLCyiaO"
+                },
+                "updated": "2026-04-21T00:12:34.185Z"
+            }
+        },
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 5,
+                    "type": "group"
+                },
+                {
+                    "id": 7,
+                    "type": "text",
+                    "state": "NhX1ZW0SI",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "5164",
+                    "content": "Vstávej!"
+                },
+                {
+                    "id": 6,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Postel je tak příjemná, že by jsi tu mohl ležet na vždy."
+                },
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "Žena se dožaduje tvojí pozornosti. Zdá se, že jí ta vlna znervózňuje, ať je to co je to."
+                },
+                {
+                    "id": 2,
+                    "type": "choice",
+                    "scene": "elEOm-ebx2saGEMC_18Vp",
+                    "label": "Žena?"
+                },
+                {
+                    "id": 3,
+                    "type": "choice",
+                    "scene": "fJJAvUyN5m5hgHXyMG4-U",
+                    "label": "\"Co?\""
+                },
+                {
+                    "id": 4,
+                    "type": "choice",
+                    "scene": "7GWOZBQGqBcXQaEQl8Nsl",
+                    "label": "Pokusit se znovu usnout"
+                }
+            ],
+            "id": "7GWOZBQGqBcXQaEQl8Nsl",
+            "title": "Wakem",
+            "start": false,
+            "microcosm": true,
+            "act": false,
+            "color": null,
+            "updated": "2026-04-20T06:19:15.492Z",
+            "wc": 48,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_meta": {
+                "byte_size": 1710,
+                "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "updated": "2026-04-19T19:23:27.534000+00:00",
+                "level": null,
+                "id": "7GWOZBQGqBcXQaEQl8Nsl"
+            },
+            "_server": {
+                "story": "EJVb0H2QnK3vUaOZyDy4Q",
+                "directions": [
+                    {
+                        "id": 5,
+                        "type": "group"
+                    },
+                    {
+                        "id": 7,
+                        "type": "text",
+                        "state": "NhX1ZW0SI",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "5164",
+                        "content": "Vstávej!"
+                    },
+                    {
+                        "id": 6,
+                        "type": "text",
+                        "state": "default",
+                        "content": "Postel je tak příjemná, že by jsi tu mohl ležet na vždy."
+                    },
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Žena se dožaduje tvojí pozornosti. Zdá se, že jí ta vlna znervózňuje, ať je to co je to."
+                    },
+                    {
+                        "id": 2,
+                        "type": "choice",
+                        "scene": "elEOm-ebx2saGEMC_18Vp",
+                        "label": "Žena?"
+                    },
+                    {
+                        "id": 3,
+                        "type": "choice",
+                        "scene": "fJJAvUyN5m5hgHXyMG4-U",
+                        "label": "\"Co?\""
+                    },
+                    {
+                        "id": 4,
+                        "type": "choice",
+                        "scene": "7GWOZBQGqBcXQaEQl8Nsl",
+                        "label": "Pokusit se znovu usnout"
+                    }
+                ],
+                "id": "7GWOZBQGqBcXQaEQl8Nsl",
+                "title": "Wakem",
+                "start": false,
+                "microcosm": true,
+                "act": false,
+                "color": null,
+                "updated": "2026-04-20T06:19:15.492Z",
+                "wc": 48,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "_meta": {
+                    "byte_size": 1710,
+                    "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                    "updated": "2026-04-19T19:23:27.534000+00:00",
+                    "level": null,
+                    "id": "7GWOZBQGqBcXQaEQl8Nsl"
+                }
+            }
+        },
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 4,
+                    "type": "layout",
+                    "persistence": "scene",
+                    "layout": "top"
+                },
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "Blabal",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "state": "NhX1ZW0SI",
+                    "emoteName": "5164"
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "NhX1ZW0SI",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "5164",
+                    "content": "Asdf"
+                },
+                {
+                    "id": 3,
+                    "type": "redirect",
+                    "scene": "7GWOZBQGqBcXQaEQl8Nsl"
+                }
+            ],
+            "id": "elEOm-ebx2saGEMC_18Vp",
+            "title": "Ev",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2026-04-20T06:19:57.606Z",
+            "wc": 13,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_meta": {
+                "byte_size": 1188,
+                "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "updated": "2026-04-19T19:23:17.213000+00:00",
+                "level": null,
+                "id": "elEOm-ebx2saGEMC_18Vp"
+            },
+            "_server": {
+                "story": "EJVb0H2QnK3vUaOZyDy4Q",
+                "directions": [
+                    {
+                        "id": 4,
+                        "type": "layout",
+                        "persistence": "scene",
+                        "layout": "top"
+                    },
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Blabal",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "state": "NhX1ZW0SI",
+                        "emoteName": "5164"
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "NhX1ZW0SI",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "5164",
+                        "content": "Asdf"
+                    },
+                    {
+                        "id": 3,
+                        "type": "redirect",
+                        "scene": "7GWOZBQGqBcXQaEQl8Nsl"
+                    }
+                ],
+                "id": "elEOm-ebx2saGEMC_18Vp",
+                "title": "Ev",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2026-04-20T06:19:57.606Z",
+                "wc": 13,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "_meta": {
+                    "byte_size": 1188,
+                    "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                    "updated": "2026-04-19T19:23:17.213000+00:00",
+                    "level": null,
+                    "id": "elEOm-ebx2saGEMC_18Vp"
+                }
+            }
+        },
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "Cože?",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "state": "dlb9TDH0Q",
+                    "emoteName": ""
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "NhX1ZW0SI",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "5164",
+                    "content": "Ten krám tam vyzvání už jakou dobu."
+                },
+                {
+                    "id": 3,
+                    "type": "text",
+                    "state": "default",
+                    "label": "Motorika",
+                    "content": "Podaří se ti pohnout rukou a promnout si oči. "
+                },
+                {
+                    "id": 4,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Následuješ pronikavý zvuk, který nemůže vyluzovat nic lidského."
+                },
+                {
+                    "id": 5,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Jeho zdrojem je přístroj, který vypadá jako kombinace gramofonu a radiopřijímače. \nNa přístroji také bliká červené světlo a pod ním jsou dva knoflíky. Jeden zelený a jeden červený. "
+                },
+                {
+                    "id": 6,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Instinktivně stiskneš zelené tlačítko a jak kvílení, tak blikání utichne. Místo toho se z ozve reproduktoru ozve šumění vodopádu nebo divoké řeky.\n"
+                },
+                {
+                    "id": 7,
+                    "type": "text",
+                    "state": "default",
+                    "label": "Hlásič ",
+                    "content": "*D-S-S*  \n*U-P-V*\n*P-S-3-6-0*\n*Q-2-3-D-F-9*"
+                },
+                {
+                    "id": 8,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Po sérii písmen a čísel se hlas odmlčí a vteřinu na to utichne u šum.\nMístnost se bez něj zdá prázdnejší."
+                },
+                {
+                    "id": 9,
+                    "type": "text",
+                    "state": "NhX1ZW0SI",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "5164",
+                    "content": "Co to bylo?"
+                },
+                {
+                    "id": 10,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Detektivní Stanice Solace.\nUrgentní případ vražda.\nPolicejní stanice 360- tam najdu složku a to poslední byl klíč k jejímu otevření."
+                },
+                {
+                    "id": 12,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "To by mě taky zajímalo, jak si věděl, co ty nesmysly znamenají."
+                },
+                {
+                    "id": 11,
+                    "type": "text",
+                    "state": "NhX1ZW0SI",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "5164",
+                    "content": "Ty seš fízl?"
+                },
+                {
+                    "id": 13,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Detektiv, podle všeho. "
+                },
+                {
+                    "id": 14,
+                    "type": "text",
+                    "state": "default",
+                    "content": "Její výraz balancuje mezi vztekem a znechucením. Ruce má založené na prsou a obočí svraštělé."
+                },
+                {
+                    "id": 15,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Je to problém? Není to nakažlivý..."
+                },
+                {
+                    "id": 16,
+                    "type": "text",
+                    "state": "NhX1ZW0SI",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "5164",
+                    "content": "Její oči se obrátí v sloup, ale napětí v jejích ramennou se viditelně uvolní."
+                },
+                {
+                    "id": 17,
+                    "type": "text",
+                    "state": "NhX1ZW0SI",
+                    "character": "Dp02EHGKdTkNQymhmlhHC",
+                    "emoteName": "5164",
+                    "content": "Jasně, promiň. Není. Ale už musím do práce tak si udělej kafe než půjdeš... Jestli chceš. "
+                },
+                {
+                    "id": 18,
+                    "type": "text",
+                    "state": "default",
+                    "content": "S těmito slovy zmizí za dveřmi jednoho ze dvou pokojů, co nejsou kuchyň nebo koupelna."
+                },
+                {
+                    "id": 19,
+                    "type": "choice",
+                    "scene": "g6gP12wDcrZ3l8RfwGAT-",
+                    "label": "Rozhlédnout se po bytě."
+                }
+            ],
+            "id": "fJJAvUyN5m5hgHXyMG4-U",
+            "title": "Wake 1",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "wc": 233,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_meta": {
+                "byte_size": 6738,
+                "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "updated": "2026-04-20T19:45:41.902000+00:00",
+                "level": null,
+                "id": "fJJAvUyN5m5hgHXyMG4-U"
+            },
+            "updated": "2026-04-21T00:12:28.121Z",
+            "_server": {
+                "story": "EJVb0H2QnK3vUaOZyDy4Q",
+                "directions": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Cože?",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "state": "dlb9TDH0Q",
+                        "emoteName": ""
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "state": "NhX1ZW0SI",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "5164",
+                        "content": "Ten krám tam vyzvání už jakou dobu."
+                    },
+                    {
+                        "id": 3,
+                        "type": "text",
+                        "state": "default",
+                        "label": "Motorika",
+                        "content": "Podaří se ti pohnout rukou a promnout si oči. "
+                    },
+                    {
+                        "id": 4,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Následuješ pronikavý zvuk, který nemůže vyluzovat nic lidského."
+                    },
+                    {
+                        "id": 5,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Jeho zdrojem je přístroj, který vypadá jako kombinace gramofonu a radiopřijímače. \nNa přístroji také bliká červené světlo a pod ním jsou dva knoflíky. Jeden zelený a jeden červený. "
+                    },
+                    {
+                        "id": 6,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Instinktivně stiskneš zelené tlačítko a jak kvílení, tak blikání utichne. Místo toho se z ozve reproduktoru ozve šumění vodopádu nebo divoké řeky.\n"
+                    },
+                    {
+                        "id": 7,
+                        "type": "text",
+                        "state": "default",
+                        "label": "Hlásič ",
+                        "content": "*D-S-S*  \n*U-P-V*\n*P-S-3-6-0*\n*Q-2-3-D-F-9*"
+                    },
+                    {
+                        "id": 8,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Po sérii písmen a čísel se hlas odmlčí a vteřinu na to utichne u šum.\nMístnost se bez něj zdá prázdnejší."
+                    },
+                    {
+                        "id": 9,
+                        "type": "text",
+                        "state": "NhX1ZW0SI",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "5164",
+                        "content": "Co to bylo?"
+                    },
+                    {
+                        "id": 10,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Detektivní Stanice Solace.\nUrgentní případ vražda.\nPolicejní stanice 360- tam najdu složku a to poslední byl klíč k jejímu otevření."
+                    },
+                    {
+                        "id": 12,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "",
+                        "content": "To by mě taky zajímalo, jak si věděl, co ty nesmysly znamenají."
+                    },
+                    {
+                        "id": 11,
+                        "type": "text",
+                        "state": "NhX1ZW0SI",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "5164",
+                        "content": "Ty seš fízl?"
+                    },
+                    {
+                        "id": 13,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Detektiv, podle všeho. "
+                    },
+                    {
+                        "id": 14,
+                        "type": "text",
+                        "state": "default",
+                        "content": "Její výraz balancuje mezi vztekem a znechucením. Ruce má založené na prsou a obočí svraštělé."
+                    },
+                    {
+                        "id": 15,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Je to problém? Není to nakažlivý..."
+                    },
+                    {
+                        "id": 16,
+                        "type": "text",
+                        "state": "NhX1ZW0SI",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "5164",
+                        "content": "Její oči se obrátí v sloup, ale napětí v jejích ramennou se viditelně uvolní."
+                    },
+                    {
+                        "id": 17,
+                        "type": "text",
+                        "state": "NhX1ZW0SI",
+                        "character": "Dp02EHGKdTkNQymhmlhHC",
+                        "emoteName": "5164",
+                        "content": "Jasně, promiň. Není. Ale už musím do práce tak si udělej kafe než půjdeš... Jestli chceš. "
+                    },
+                    {
+                        "id": 18,
+                        "type": "text",
+                        "state": "default",
+                        "content": "S těmito slovy zmizí za dveřmi jednoho ze dvou pokojů, co nejsou kuchyň nebo koupelna."
+                    },
+                    {
+                        "id": 19,
+                        "type": "choice",
+                        "scene": "g6gP12wDcrZ3l8RfwGAT-",
+                        "label": "Rozhlédnout se po bytě."
+                    }
+                ],
+                "id": "fJJAvUyN5m5hgHXyMG4-U",
+                "title": "Wake 1",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "wc": 233,
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "_meta": {
+                    "byte_size": 6738,
+                    "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                    "updated": "2026-04-20T19:45:41.902000+00:00",
+                    "level": null,
+                    "id": "fJJAvUyN5m5hgHXyMG4-U"
+                },
+                "updated": "2026-04-21T00:12:28.121Z"
+            }
+        },
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 2,
+                    "type": "background",
+                    "content": "XixSs2pZTj5XvfXCf2p88"
+                },
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "Mistnost je poměrně vkusně vyzdobena v souladu se zbytkem bytu. Něco ti říká, že tu nejsi poprvé, ačkoliv na to nemáš žádnou vzpomínku."
+                },
+                {
+                    "id": 3,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Mám vzpomínku vůbec na něco?"
+                },
+                {
+                    "id": 4,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Jasně, máš plno vzpomínek. Máš na mysli nějakou konkrétní?"
+                },
+                {
+                    "id": 5,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Jaký jsem měl dětství?"
+                },
+                {
+                    "id": 6,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Nestálo za nic."
+                },
+                {
+                    "id": 7,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Můžeš být trochu konkrétnější?"
+                },
+                {
+                    "id": 8,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Matka semetrika, fotr alkoholik a ve škole se ti posmívali."
+                },
+                {
+                    "id": 9,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Dobře a co dospívání?"
+                },
+                {
+                    "id": 10,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Ještě horší než dětství. "
+                },
+                {
+                    "id": 11,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Mám se ptát? "
+                },
+                {
+                    "id": 12,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Nemůžu to doporučit. Ještě něco?"
+                },
+                {
+                    "id": 13,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Ne, to stačí. Udělal jsem si slušnou představu o svým životě, díky."
+                },
+                {
+                    "id": 14,
+                    "type": "choice",
+                    "scene": "bd9EbYE3EgRUtNiDf88kL",
+                    "label": "Udělat si kávu "
+                },
+                {
+                    "id": 15,
+                    "type": "choice",
+                    "scene": "pgdtGXnm1PJZeckojRTN2",
+                    "label": "Odejít"
+                }
+            ],
+            "id": "g6gP12wDcrZ3l8RfwGAT-",
+            "title": "Wake2",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2026-04-23T17:51:54.577Z",
+            "wc": 102,
+            "_meta": {
+                "byte_size": 462,
+                "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                "updated": "2026-04-20T19:45:38.757000+00:00",
+                "level": null,
+                "id": "g6gP12wDcrZ3l8RfwGAT-"
+            },
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+            "_server": {
+                "story": "EJVb0H2QnK3vUaOZyDy4Q",
+                "directions": [
+                    {
+                        "id": 2,
+                        "type": "background",
+                        "content": "XixSs2pZTj5XvfXCf2p88"
+                    },
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Mistnost je poměrně vkusně vyzdobena v souladu se zbytkem bytu. Něco ti říká, že tu nejsi poprvé, ačkoliv na to nemáš žádnou vzpomínku."
+                    },
+                    {
+                        "id": 3,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Mám vzpomínku vůbec na něco?"
+                    },
+                    {
+                        "id": 4,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "",
+                        "content": "Jasně, máš plno vzpomínek. Máš na mysli nějakou konkrétní?"
+                    },
+                    {
+                        "id": 5,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Jaký jsem měl dětství?"
+                    },
+                    {
+                        "id": 6,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "",
+                        "content": "Nestálo za nic."
+                    },
+                    {
+                        "id": 7,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "",
+                        "content": "Můžeš být trochu konkrétnější?"
+                    },
+                    {
+                        "id": 8,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "",
+                        "content": "Matka semetrika, fotr alkoholik a ve škole se ti posmívali."
+                    },
+                    {
+                        "id": 9,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Dobře a co dospívání?"
+                    },
+                    {
+                        "id": 10,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "",
+                        "content": "Ještě horší než dětství. "
+                    },
+                    {
+                        "id": 11,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Mám se ptát? "
+                    },
+                    {
+                        "id": 12,
+                        "type": "text",
+                        "state": "Grhc1KSi4",
+                        "character": "t7paw_hZAUqt6w-Jz8qc7",
+                        "emoteName": "",
+                        "content": "Nemůžu to doporučit. Ještě něco?"
+                    },
+                    {
+                        "id": 13,
+                        "type": "text",
+                        "state": "dlb9TDH0Q",
+                        "character": "qVHVMNxYGVJCENwk6T8Y_",
+                        "emoteName": "",
+                        "content": "Ne, to stačí. Udělal jsem si slušnou představu o svým životě, díky."
+                    },
+                    {
+                        "id": 14,
+                        "type": "choice",
+                        "scene": "bd9EbYE3EgRUtNiDf88kL",
+                        "label": "Udělat si kávu "
+                    },
+                    {
+                        "id": 15,
+                        "type": "choice",
+                        "scene": "pgdtGXnm1PJZeckojRTN2",
+                        "label": "Odejít"
+                    }
+                ],
+                "id": "g6gP12wDcrZ3l8RfwGAT-",
+                "title": "Wake2",
+                "start": false,
+                "microcosm": false,
+                "act": false,
+                "color": null,
+                "updated": "2026-04-23T17:51:54.577Z",
+                "wc": 102,
+                "_meta": {
+                    "byte_size": 462,
+                    "owner_id": "481159b1-1fdb-45b4-8a5d-98fadc2bd763",
+                    "updated": "2026-04-20T19:45:38.757000+00:00",
+                    "level": null,
+                    "id": "g6gP12wDcrZ3l8RfwGAT-"
+                },
+                "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+            }
+        },
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": "To je opravdu hezká myšlenka. Udělat si takhle čerstvou kávu po ránu, aby  mohl člověk začít den, co?",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "state": "Grhc1KSi4",
+                    "emoteName": ""
+                },
+                {
+                    "id": 2,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Ale ne, no. "
+                },
+                {
+                    "id": 3,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Jak ne? "
+                },
+                {
+                    "id": 4,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Prostě ne. Žádný kafe nebude, protože *ty* kafe nepiješ."
+                },
+                {
+                    "id": 5,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Mě se ale zdá, že vlastně jo. Moje tělo při myšlence na ní vyloženě pookřálo."
+                },
+                {
+                    "id": 6,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Já nechci znít jako zamotaná nahrávka, ale to je právě ono. Každodenní pití kávy tě přivedlo až sem.  "
+                },
+                {
+                    "id": 7,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Dobrá."
+                },
+                {
+                    "id": 8,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Co bys měl udělat je sehnat si nějakej meth."
+                },
+                {
+                    "id": 9,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Cože? Co to je?"
+                },
+                {
+                    "id": 10,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Úžasná věc, co jsi před pár dnama zkusil, když *ehm*.\nVyrábí to na jedný lodi, co je permanentně zakotvená v přístavu."
+                },
+                {
+                    "id": 11,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "A co to je?"
+                },
+                {
+                    "id": 12,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Něco, co učiní všechno lepší."
+                },
+                {
+                    "id": 13,
+                    "type": "text",
+                    "state": "dlb9TDH0Q",
+                    "character": "qVHVMNxYGVJCENwk6T8Y_",
+                    "emoteName": "",
+                    "content": "Ehm, jako co?"
+                },
+                {
+                    "id": 14,
+                    "type": "text",
+                    "state": "Grhc1KSi4",
+                    "character": "t7paw_hZAUqt6w-Jz8qc7",
+                    "emoteName": "",
+                    "content": "Všechno."
+                },
+                {
+                    "id": 15,
+                    "type": "choice",
+                    "scene": "g6gP12wDcrZ3l8RfwGAT-",
+                    "label": "To zní skvěle",
+                    "effects": [
+                        {
+                            "tag": "PECE26H-D",
+                            "op": ":",
+                            "value": "1",
+                            "id": "0Ms1eX_SY"
+                        },
+                        {
+                            "tag": "c-GgA5iNj",
+                            "op": ":",
+                            "value": "1",
+                            "id": "DblM3cQJw"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "type": "choice",
+                    "scene": "g6gP12wDcrZ3l8RfwGAT-",
+                    "label": "Na tom se mi něco nezdá.",
+                    "effects": [
+                        {
+                            "tag": "c-GgA5iNj",
+                            "op": ":",
+                            "value": "1",
+                            "id": "7gK99jTIC"
+                        }
+                    ]
+                }
+            ],
+            "id": "bd9EbYE3EgRUtNiDf88kL",
+            "title": "Wakeka",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2026-04-21T13:55:31.270Z",
+            "wc": 132,
+            "uid": "481159b1-1fdb-45b4-8a5d-98fadc2bd763"
+        },
+        {
+            "story": "EJVb0H2QnK3vUaOZyDy4Q",
+            "directions": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "content": ""
+                }
+            ],
+            "id": "pgdtGXnm1PJZeckojRTN2",
+            "title": "Wakelea",
+            "start": false,
+            "microcosm": false,
+            "act": false,
+            "color": null,
+            "updated": "2026-04-21T13:56:32.250Z",
+            "wc": 11
+        }
+    ],
+    "tags": [
+        {
+            "name": "Meth",
+            "id": "PECE26H-D",
+            "format": "",
+            "type": "tag"
+        },
+        {
+            "name": "Kafe",
+            "id": "c-GgA5iNj",
+            "format": "",
+            "type": "tag"
+        }
+    ],
+    "title": "Nevim",
+    "short_description": "",
+    "description": "",
+    "cover": null,
+    "attrs": {
+        "language": "English",
+        "genre": "Dating"
+    },
+    "settings": {
+        "overlayout": false,
+        "colorLabels": {
+            "white": "",
+            "black": "",
+            "red": "",
+            "orange": "",
+            "yellow": "",
+            "green": "",
+            "blue": "",
+            "violet": ""
+        },
+        "color": "#ffffff",
+        "background": "#000000",
+        "aura": "#3b4257",
+        "stackDialog": false,
+        "titleStyle": "nz4w320hU0F5Tv5jhr1bc",
+        "thoughtStyle": "-mB1sZDxi5GRsiGp3u9-f",
+        "textLabelStyle": "-mB1sZDxi5GRsiGp3u9-f"
+    },
+    "id": "EJVb0H2QnK3vUaOZyDy4Q",
+    "cloudSync": true,
+    "lastExport": "2026-05-25T08:15:16.044Z",
+    "savesSinceExport": 0,
+    "wc": 764,
+    "lastwc": 764,
+    "types": [],
+    "blueprints": [],
+    "characters": [
+        {
+            "name": "Eve",
+            "auraConfig": {
+                "disable": false
+            },
+            "id": "Dp02EHGKdTkNQymhmlhHC",
+            "emotes": [
+                {
+                    "name": "5164",
+                    "label": "Eve",
+                    "width": null,
+                    "border": null,
+                    "blob_id": "Gt7YjCGJC2uOarVv7w3yt",
+                    "position": "left",
+                    "id": "NhX1ZW0SI",
+                    "permalink": null
+                }
+            ],
+            "style": "5zXsoL17mzoVCmqL26jK7"
+        },
+        {
+            "name": "Jack",
+            "id": "TbzhPzxdMwMP9pXSVFZF0",
+            "emotes": [
+                {
+                    "name": "",
+                    "label": "Jack",
+                    "width": null,
+                    "border": null,
+                    "blob_id": "",
+                    "position": "left",
+                    "id": "nJU4UiX3j",
+                    "style": "nz4w320hU0F5Tv5jhr1bc"
+                }
+            ],
+            "style": "nz4w320hU0F5Tv5jhr1bc",
+            "auraConfig": {
+                "disable": false
+            }
+        },
+        {
+            "name": "Já ",
+            "id": "qVHVMNxYGVJCENwk6T8Y_",
+            "auraConfig": {
+                "disable": false
+            },
+            "emotes": [
+                {
+                    "name": "",
+                    "label": "Já ",
+                    "width": null,
+                    "border": null,
+                    "blob_id": "",
+                    "position": "left",
+                    "id": "dlb9TDH0Q"
+                }
+            ],
+            "style": "64rDD62Q8i6NKhK2i-Aat"
+        },
+        {
+            "name": "Queeg",
+            "id": "t7paw_hZAUqt6w-Jz8qc7",
+            "auraConfig": {
+                "disable": false
+            },
+            "emotes": [
+                {
+                    "name": "",
+                    "label": "Queeg",
+                    "width": null,
+                    "border": null,
+                    "blob_id": "",
+                    "position": "left",
+                    "id": "Grhc1KSi4"
+                }
+            ],
+            "style": "hRQoyXlh3x-CZBWhXIxgC"
+        }
+    ],
+    "styles": [
+        {
+            "border": "3px",
+            "shadow": "#000000",
+            "foreground": "#ffffff",
+            "background": "#000000",
+            "gradient": "top",
+            "align": "center",
+            "font": "literata_bookregular",
+            "size": "16px",
+            "borderShadow": "",
+            "shadowLength": "1px",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "https://localhost/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "name": "A",
+            "id": "nz4w320hU0F5Tv5jhr1bc",
+            "borderColor": null,
+            "borderShadowColor": null,
+            "background2": "#2e2e2e",
+            "default": true
+        },
+        {
+            "border": "",
+            "shadow": "#ffffff",
+            "foreground": "#ffd8ce",
+            "background": "#000000",
+            "gradient": "",
+            "align": "center",
+            "font": "architects_daughterregular",
+            "size": "19.2px",
+            "borderShadow": "5px",
+            "shadowLength": "7px",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "https://localhost/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "name": "Queeg",
+            "id": "hRQoyXlh3x-CZBWhXIxgC",
+            "borderShadowColor": "#f8c0c4",
+            "background2": null
+        },
+        {
+            "border": "5px",
+            "shadow": "#737373",
+            "foreground": "#ffffff",
+            "background": "#000000",
+            "gradient": "left",
+            "align": "left",
+            "font": "serif",
+            "size": "19.2px",
+            "borderShadow": "",
+            "shadowLength": "1px",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "https://localhost/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "name": "Ja ",
+            "id": "64rDD62Q8i6NKhK2i-Aat",
+            "background2": "#171717",
+            "borderColor": "#454545"
+        },
+        {
+            "border": "",
+            "shadow": "",
+            "foreground": "#ffffff",
+            "background": "#2e2e2e",
+            "gradient": "bloom",
+            "align": "left",
+            "font": "sans-serif",
+            "size": "19.2px",
+            "borderShadow": "9px",
+            "shadowLength": "",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "https://localhost/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "borderShadowColor": "#cc0000",
+            "background2": "#737373",
+            "name": "Ev",
+            "id": "5zXsoL17mzoVCmqL26jK7"
+        },
+        {
+            "border": "1px",
+            "shadow": "#ff831a",
+            "foreground": "#ffffff",
+            "background": "#171717",
+            "gradient": "bloom",
+            "align": "center",
+            "font": "serif",
+            "size": "19.2px",
+            "borderShadow": "",
+            "shadowLength": "7px",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "https://localhost/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "name": "Ch",
+            "id": "-mB1sZDxi5GRsiGp3u9-f",
+            "borderColor": "#ff831a",
+            "background2": "#cfcfcf"
+        },
+        {
+            "border": "",
+            "shadow": "",
+            "foreground": "#ffffff",
+            "background": "white",
+            "gradient": "left",
+            "align": "left",
+            "font": "literata_bookregular",
+            "size": "16px",
+            "borderShadow": "",
+            "shadowLength": "",
+            "animation": {
+                "enter": null,
+                "exit": null
+            },
+            "particles": {
+                "type": "particle",
+                "probability": 1,
+                "color1": "#ff8000",
+                "color2": "#c0c0c0",
+                "count": 1,
+                "a": 0,
+                "da": 0.2,
+                "da2": 0.1,
+                "dx": 0.5,
+                "dy": 0.5,
+                "dy2": 0.8,
+                "gravity": 4.4,
+                "size": 20,
+                "dsize": 0.7,
+                "duration": 0.9,
+                "decal": "https://localhost/assets/particle-flare-DLYc7I3w.png"
+            },
+            "particlesEnabled": false,
+            "name": "G",
+            "id": "VkAApAjHo3acBQwNftLL0",
+            "background2": null
+        }
+    ],
+    "backgrounds": [
+        {
+            "blob_id": "M7hwsYJZ56S2N7Rtum4X6",
+            "id": "Yp7UMgLNXl4Df2dNemkqW"
+        },
+        {
+            "blob_id": "PwBk-jFhbu1qVRFUL5QPJ",
+            "id": "Uuya09aiH_bwtItzMfB9a"
+        },
+        {
+            "blob_id": "qQDSwd7WPb2pHBM5YV5bk",
+            "id": "sLQ6pUPGbX9RsCT2OiCFH"
+        },
+        {
+            "blob_id": "WEs4S9Mm1c__NhGlPZE5Y",
+            "id": "MD-RjWPnrdjBkLSBH0h8G"
+        },
+        {
+            "blob_id": "tTpsqh8YBGWvrxz7O2BVj",
+            "id": "XixSs2pZTj5XvfXCf2p88"
+        }
+    ],
+    "animation": [
+        {
+            "name": "",
+            "id": "Ygl_K1IvM",
+            "pipeline": [
+                {
+                    "id": "kgKfJrjMw",
+                    "module": "test",
+                    "duration": 1,
+                    "easing": "ease-in-out",
+                    "type": "blur",
+                    "track": 0,
+                    "opacity": "0.6",
+                    "background": "#737373",
+                    "direction": {
+                        "x": -0.0465625,
+                        "y": -0.18
+                    },
+                    "color": "#ff831a",
+                    "length": "0.8",
+                    "scale": "1",
+                    "rotation": "0",
+                    "randomize": "0",
+                    "rotationRandomize": "1.2",
+                    "blur": "0.7"
+                }
+            ],
+            "duration": "1201"
+        },
+        {
+            "name": "As",
+            "id": "inlj8ADyl",
+            "pipeline": [
+                {
+                    "id": "TgANOaOrL",
+                    "module": "test",
+                    "duration": 1,
+                    "easing": "ease-in-out",
+                    "type": "blur",
+                    "track": 0,
+                    "blur": "0.5"
+                }
+            ],
+            "duration": "3001"
+        }
+    ],
+    "audio": [],
+    "music": [],
+    "images": [],
+    "media": [],
+    "effectProfiles": [],
+    "ordering": 1,
+    "landing": {
+        "allowRewind": true,
+        "backgroundCycle": true,
+        "backgroundCycleSpeed": 8000,
+        "backgroundFadeSpeed": 1000,
+        "backgroundZoom": 1.5,
+        "titleStyle": "nz4w320hU0F5Tv5jhr1bc",
+        "themeAccent": "#454545",
+        "themeSpark": "#ff831a",
+        "themeDark": true,
+        "titleAnimation": "Ygl_K1IvM",
+        "backgrounds": [
+            "M7hwsYJZ56S2N7Rtum4X6",
+            "PwBk-jFhbu1qVRFUL5QPJ"
+        ]
+    },
+    "fid": null,
+    "shared": false,
+    "mediaManifest": [
+        {
+            "id": "M7hwsYJZ56S2N7Rtum4X6",
+            "name": "3538.png",
+            "ext": "png",
+            "type": "image/png",
+            "from": "backgrounds",
+            "url": null
+        },
+        {
+            "id": "PwBk-jFhbu1qVRFUL5QPJ",
+            "name": "4866.png",
+            "ext": "png",
+            "type": "image/png",
+            "from": "backgrounds",
+            "url": null
+        },
+        {
+            "id": "qQDSwd7WPb2pHBM5YV5bk",
+            "name": "5151.jpg",
+            "ext": "jpg",
+            "type": "image/jpeg",
+            "from": "backgrounds",
+            "url": null
+        },
+        {
+            "id": "WEs4S9Mm1c__NhGlPZE5Y",
+            "name": "5152.jpg",
+            "ext": "jpg",
+            "type": "image/jpeg",
+            "from": "backgrounds",
+            "url": null
+        },
+        {
+            "id": "tTpsqh8YBGWvrxz7O2BVj",
+            "name": "5204.jpg",
+            "ext": "jpg",
+            "type": "image/jpeg",
+            "from": "backgrounds",
+            "url": null
+        },
+        {
+            "id": "Gt7YjCGJC2uOarVv7w3yt",
+            "name": "5164.png",
+            "ext": "png",
+            "type": "image/webp",
+            "from": "emotes",
+            "url": null
+        }
+    ]
+}
